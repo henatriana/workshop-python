@@ -1,4 +1,4 @@
-### Workdhop Python Pertemuan 11 Pemrograman WEB -> Tutorial Flask
+### Workshop Python Pertemuan 11 Pemrograman WEB -> Tutorial Flask
 
 Flask adalah kerangka kerja aplikasi web WSGI yang ringan. Ini dirancang untuk memulai dengan cepat dan mudah, dengan kemampuan meningkatkan aplikasi yang kompleks. Ini dimulai sebagai pembungkus sederhana di sekitar Werkzeug dan Jinja dan telah menjadi salah satu kerangka kerja aplikasi web Python paling populer.
 
